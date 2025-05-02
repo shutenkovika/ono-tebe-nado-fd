@@ -29,13 +29,13 @@
     flex-direction: row;
     gap: 13px;
     padding: 0;
-    margin: 0; 
+    margin: 0;
 }
 
 .header__links-list-item {
     list-style:circle;
     list-style-position: outside;
-    padding-left: 0; 
+    padding-left: 0;
 }
 
 .header__links-list-item_no-bullit {
@@ -94,7 +94,7 @@
 .cover {
     background-image:url("../images/cover.jpg");
     background-size: cover;
-    position:relative; 
+    position:relative;
 }
 
 .overlay {
@@ -209,7 +209,8 @@ height: 100%;
 
 
 .card-link {
-    text-decoration:none;  }
+    text-decoration:none;
+}
 
 .card {
     padding: 48px 40px 48px 40px;
@@ -265,7 +266,7 @@ padding-top: 278px;
 }
 
 .card_text_book {
-padding-top: 36px; 
+padding-top: 36px;
 }
 
 .card_text_picture {
@@ -377,7 +378,7 @@ padding-top: 133px;
 
 .footer__link {
     text-decoration:none;
-    list-style:none; 
+    list-style:none;
 }
 
 .footer__link_active {
