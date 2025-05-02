@@ -72,7 +72,8 @@
     
     text-decoration: underline;
     text-decoration-thickness: 0.5px;
-    text-underline-offset: 4px;}
+    text-underline-offset: 4px;
+}
 
 
 
@@ -186,11 +187,9 @@
     word-spacing: 18px;
     text-transform: uppercase;
     color: #FFFFFF;
-
 }
 
 .bet-button{   
-
     background-color: transparent;
     border-color: #FFFFFF;
     font-family: Raleway;
@@ -202,8 +201,6 @@
     text-transform: uppercase;
     padding: 12px 32px 11px 31px;
     color: #FFFFFF;
-
-
 }
 
 .lots{
@@ -219,7 +216,6 @@ letter-spacing: 0%;
 text-transform: uppercase;
 padding-bottom: 31px;
 padding-left: 40px;
-
 }
 
 .lots__card-list{
@@ -237,16 +233,15 @@ padding-left: 40px;
     background-position: center;
     position:relative;
 }
+
 .card__link, 
 .card{
 height: 100%;
 }
 
 
-.card-link
-{
-    text-decoration:none;
-   
+.card-link{
+    text-decoration:none;  
 }
 
 .card{
@@ -258,7 +253,6 @@ height: 100%;
 
 .card_type_film{
     background-image:url("../images/card-lot-01.jpg");
-
 }
 
 .card_type_book{
@@ -280,7 +274,6 @@ text-decoration: underline;
 text-decoration-style: solid;
 text-decoration-thickness: 0%;
 color: #FFFFFF;
-
 }
 
 
@@ -298,14 +291,12 @@ font-size: 20px;
 line-height: 120%;
 letter-spacing: 0%;
 color: #FFFFFF;
-
 }
 
 
 
 .card_text_film{
 padding-top: 278px;
-
 }
 
 .card_text_book{
@@ -317,24 +308,19 @@ padding-top: 133px;
 }
 
 .more{
-    
-    
     padding-left: 40px;
     font-family: Raleway;
     font-weight: 400;
     font-size: 20px;
     line-height: 100%;
     letter-spacing: 0%;
-
 }
 
 .about{
     display: grid;
     grid-template-columns: 334px 1fr;
     gap: 26px;
-    
-    
-   padding-top: 35px;
+    padding-top: 35px;
     padding-left: 24px;
     padding-right: 50px;
 }
@@ -356,23 +342,19 @@ padding-top: 133px;
 }
 
 .about__column{
-
     min-width: 693px;
     margin-top: 105px;
-
 }
 
 .about__title{
     /*padding-top: 105px;*/
     padding-bottom: 100px;
-    
     font-family: Raleway;
     font-weight: 700;
     font-size: 40px;
     line-height: 100%;
     letter-spacing: 0%;
     text-transform: uppercase;
-
 }
 
 .about__text{
@@ -382,7 +364,6 @@ padding-top: 133px;
     line-height: 24px;
     letter-spacing: 0%;
     margin: 0;
-
 }
 
 .about__text__first{
@@ -396,12 +377,10 @@ padding-top: 133px;
     gap: 25px;
     justify-content: center;
     /*padding: 180px 50px 82px 50px;*/
-
 }
 
 .address__footer{
     justify-self: center;
-
 }
 
 .footer__menu-list{
@@ -416,7 +395,6 @@ padding-top: 133px;
     font-size: 18px;
     padding-right: 10px;
     text-align: center;
-
 }
 
 .footer__social-list{
@@ -436,8 +414,7 @@ padding-top: 133px;
 
 .footer__link{
     text-decoration:none;
-    list-style:none;
-    
+    list-style:none;  
 }
 
 .footer__link_active{
