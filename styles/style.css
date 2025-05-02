@@ -69,15 +69,10 @@
 }
 
 .header__link_active{
-    
     text-decoration: underline;
     text-decoration-thickness: 0.5px;
     text-underline-offset: 4px;
 }
-
-
-
-
 
 .header__address{
     /*padding-left: 184px;*/
