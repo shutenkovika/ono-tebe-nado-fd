@@ -45,7 +45,6 @@
 }
     
 .header__link {
-    padding-right: 5px;
     text-decoration: underline;
     text-decoration-thickness: 0.5px;
     text-underline-offset: 4px;
@@ -60,7 +59,7 @@
     text-decoration:none;
 }
 
-.contacts{
+.contacts {
     font-style: normal;
 }
 
@@ -84,7 +83,7 @@
     text-underline-offset: 4px;
 }
 
-.address__text{
+.address__text {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     
@@ -309,7 +308,7 @@ color: #FFFFFF;
     text-transform: uppercase;
 }
 
-.about__text__group{
+.about__text__group {
     display: flex;
     flex-direction: column;
     gap: 24px;
@@ -334,8 +333,7 @@ color: #FFFFFF;
     justify-content: center;
 }
 
-.footer__address{
-    justify-self: center;
+.footer__address {
     padding-left: 50px;
     max-height: 98px;
     margin: 0;
@@ -343,8 +341,7 @@ color: #FFFFFF;
     flex-direction: column;
     gap: 4.3px;
     align-self: center;
-    justify-self:right;
-    
+    justify-self:right;  
 }
 
 .footer__menu-list {
