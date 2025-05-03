@@ -330,7 +330,7 @@ color: #FFFFFF;
     display: grid;
     grid-template-columns: 370px 318px 1fr;
     gap: 25px;
-    justify-content: center;
+    justify-content: center; 
 }
 
 .footer__address {
@@ -341,7 +341,7 @@ color: #FFFFFF;
     flex-direction: column;
     gap: 4.3px;
     align-self: center;
-    justify-self:right;  
+    justify-self:right; 
 }
 
 .footer__menu-list {
